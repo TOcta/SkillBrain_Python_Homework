@@ -19,7 +19,7 @@ print ("asta e casa \ncasa mea \ncasa frumoasa \ncasa mea")
 
 #Tipuri de date 
 #string - insiruire de caractere
-Octa
+print("Octa")
 #int - integer nr intreg (nu contine zecimale)
 7
 #float - nr cu zecimale
