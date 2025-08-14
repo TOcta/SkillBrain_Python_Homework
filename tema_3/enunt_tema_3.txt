@@ -13,3 +13,6 @@ Verifică următoarele situații:
     Dacă doar una dintre cele două este corectă (numele de utilizator sau parola) → afișează "User/Password incorect".
 
     Dacă ambele sunt greșite → afișează "Acces respins".
+
+
+    
